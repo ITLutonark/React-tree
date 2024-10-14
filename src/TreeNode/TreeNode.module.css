@@ -1,0 +1,18 @@
+.container {
+  margin-left: 20px;
+}
+
+.treeItem {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+.title {
+  cursor: pointer;
+  font-size: 20px;
+  user-select: none;
+}
+
+button {
+  cursor: pointer;
+}
